@@ -1,5 +1,5 @@
-
-#ORDER BY
+#Workbench
+#ORDER_BY
 
 SELECT Nombre, Ciudad, Pais FROM CLIENTES_PIZZA  
 ORDER BY Pais, LIMIT 50, OFFSET 10;
