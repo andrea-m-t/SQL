@@ -21,4 +21,4 @@ VALUES
 (14, 'Gloria', 'Fernández', '23-35965852-5', 'Constitución 323', 'GBA'),
 (17, 'Gonzalo', 'López', '23-33587416-0', 'Arias 2624', 'GBA');
 
-DESCRIBE FACTURAS, ARTICULOS, CLIENTES;
+SELECT * FROM CLIENTES;
